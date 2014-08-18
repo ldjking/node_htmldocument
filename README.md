@@ -1,4 +1,4 @@
 node_htmldocument
 =================
 
-simulate html document
+simulate html document interface
